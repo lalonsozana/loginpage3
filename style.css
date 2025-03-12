@@ -1,0 +1,318 @@
+.login-page-1,
+.login-page-1 * {
+  box-sizing: border-box;
+}
+.login-page-1 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 586px;
+  height: 573px;
+  position: absolute;
+  left: 414px;
+  top: 381px;
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 79px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 79px;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 79px;
+}
+.registration2 {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 414px;
+  top: 278px;
+  width: 586px;
+  height: 103px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 27px;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 64px;
+}
+.welcome-guest {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 38px;
+  width: 187px;
+  height: 37px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 68px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.umd-club-rugby-membership-home {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 64px;
+  width: 402px;
+  height: 160px;
+}
+.registration3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 424px;
+  top: 404px;
+  width: 207px;
+  height: 40px;
+}
+.log-in {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 715px;
+  top: 404px;
+  width: 212px;
+  height: 45px;
+}
+.line-1 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 570px;
+  height: 0px;
+  position: absolute;
+  left: 707px;
+  top: 384px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.password {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 432px;
+  top: 696px;
+}
+.first-name {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 432px;
+  top: 455px;
+}
+.re-enter-password {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 432px;
+  top: 756px;
+}
+.e-mail {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 432px;
+  top: 578px;
+}
+.phone-number {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 432px;
+  top: 637px;
+}
+.last-name {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 517px;
+}
+.password2 {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 517px;
+}
+.e-mail2 {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 455px;
+}
+.rectangle-12 {
+  background: #ffd520;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 120px;
+  height: 47px;
+  position: absolute;
+  left: 496px;
+  top: 810px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.btn1 {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 496px;
+  top: 817px;
+  width: 120px;
+  height: 33px;
+}
+.rectangle-122 {
+  background: #ffd520;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 120px;
+  height: 47px;
+  position: absolute;
+  left: 785px;
+  top: 567px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.btn2 {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 785px;
+  top: 574px;
+  width: 120px;
+  height: 33px;
+}
