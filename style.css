@@ -287,18 +287,6 @@
     cursor: pointer;
     transition: background 0.3s ease-in-out;
 }
-.btn1 {
-  text-align: center;
-  font-family: "OpenSans-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 28px;
-  font-weight: 400;
-  position: absolute;
-  left: 496px;
-  top: 817px;
-  width: 120px;
-  height: 33px;
-}
 .btn1:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
